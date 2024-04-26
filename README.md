@@ -15,8 +15,8 @@ LM-35 Temperature Sensor
 
 - APP
 
-## Project on Proteus: 
-![image]("E:\Courses\MT Advanced Embedded Diploma\3- RTOS\Final Project\RTOS_FinalProject_Submission\RTOS_FinalProject_SubmissionDoc.pdf")
+## Pdf for Project Results: 
+[Download PDF]("E:\Courses\MT Advanced Embedded Diploma\3- RTOS\Final Project\RTOS_FinalProject_Submission\RTOS_FinalProject_SubmissionDoc.pdf")
 
 
 ## Specifications:
