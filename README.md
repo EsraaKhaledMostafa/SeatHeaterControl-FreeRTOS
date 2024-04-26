@@ -41,14 +41,7 @@ temperature by 3°C.
     iii. Cyan color indicates high intensity.
 
 3. The temperature sensor shall be connected to the ADC so that the current temperature is measured
-correctly.
-  a. You can use an LM35 temperature sensor to measure the temperature.
-    i. Refer to the datasheet of the sensor for its specifications.
-  b. For the purpose of testing only, you can use a potentiometer connected to the ADC instead of
-the temperature sensor in order to take the temperature as input from the user with the
-following specifications:
-    i. 0v-3.3v is mapped to the range 0°C-45°C.
-    ii. Note that only the range 5°C-40°C shall be treated as the valid range.
+correctly. Note that only the range 5°C-40°C shall be treated as the valid range.
 
 4. The current temperature, the heating level, and the heater state should be displayed on the screen by
 sending it through the UART.
