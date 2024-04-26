@@ -24,17 +24,18 @@ LM-35 Temperature Sensor
 initially off is set and each press goes one step further (from off to low, from low to medium, from
 medium to high, and from high to off once again).
 
-2. The heater will be driven from a signal to control its intensity: - If the current temperature is less than the desired temperature by 10°C or more the heater
+2. The heater will be driven from a signal to control its intensity:
+- If the current temperature is less than the desired temperature by 10°C or more the heater
 should be enabled with the high intensity.
- - If the current temperature is less than the desired temperature by 5°C to 10°C the heater
+- If the current temperature is less than the desired temperature by 5°C to 10°C the heater
 should be enabled with a medium intensity.
- - If the current temperature is less than the desired temperature by 2°C to 5°C the heater should
+- If the current temperature is less than the desired temperature by 2°C to 5°C the heater should
 be enabled with a low intensity.
-  - If the current temperature is more than the desired temperature the heater should be
+- If the current temperature is more than the desired temperature the heater should be
 disabled.
-  - The heater shall be enabled once again if the temperature becomes less than the desired
+- The heater shall be enabled once again if the temperature becomes less than the desired
 temperature by 3°C.
-  - Note that for the purpose of testing only the heater level shall control the LED:
+- Note that for the purpose of testing only the heater level shall control the LED:
     i. Green color indicates low intensity.
     ii. Blue color indicates medium intensity.
     iii. Cyan color indicates high intensity.
