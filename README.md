@@ -24,8 +24,7 @@ LM-35 Temperature Sensor
 initially off is set and each press goes one step further (from off to low, from low to medium, from
 medium to high, and from high to off once again).
 
-2. The heater will be driven from a signal to control its intensity:
- - If the current temperature is less than the desired temperature by 10°C or more the heater
+2. The heater will be driven from a signal to control its intensity: - If the current temperature is less than the desired temperature by 10°C or more the heater
 should be enabled with the high intensity.
  - If the current temperature is less than the desired temperature by 5°C to 10°C the heater
 should be enabled with a medium intensity.
