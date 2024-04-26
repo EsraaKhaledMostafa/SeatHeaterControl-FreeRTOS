@@ -16,7 +16,7 @@ LM-35 Temperature Sensor
 - APP
 
 ## Pdf for Project Results: 
-![Download PDF]("E:\Courses\MT Advanced Embedded Diploma\3- RTOS\Final Project\RTOS_FinalProject_Submission\RTOS_FinalProject_SubmissionDoc.pdf")
+[Download PDF](https://github.com/EsraaKhaledMostafa/SeatHeaterControl-FreeRTOS/blob/main/RTOS_FinalProject_SubmissionDoc.pdf)
 
 
 ## Specifications:
