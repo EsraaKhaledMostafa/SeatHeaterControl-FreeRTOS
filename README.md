@@ -4,7 +4,6 @@
 - Tiva-C Microcontroller.
 
 ## SW Drivers:
-### ECU 1 -> HMI_ECU
 - MCAL:
 GPIO
 GPTM
